@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "d6245f4282f1e774",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a4ff153b813fa0b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "微机原理/2 8051microcontroller.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4399a86ea547883",
+    "type": "split",
+    "children": [
+      {
+        "id": "2542b4fe5f4eed06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ccefd85efe5aff2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "75e6d070812c8b28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348
+  },
+  "right": {
+    "id": "71d8e0793201db03",
+    "type": "split",
+    "children": [
+      {
+        "id": "c242bc4a68513b4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbcb0558d538d3f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "微机原理/2 8051microcontroller.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3a4ff153b813fa0b",
+  "lastOpenFiles": [
+    "微机原理/2 8051microcontroller.md",
+    "控制电机/带书签-《控制电机 第4版》_13336657.pdf",
+    "控制电机/测速发电机.md",
+    "微机原理/Lecture_08.pdf",
+    "微机原理/专业英语.md",
+    "微机原理/微机原理（全英）.md",
+    "微机原理/7串口通信编程.md",
+    "微机原理/Input_output_port引脚输入输出.md",
+    "微机原理/8Interrupt Programming（中断）.md",
+    "微机原理/Lecture_07.pdf"
+  ]
+}

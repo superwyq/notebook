@@ -1,0 +1,4 @@
+## 
+MOV，MOVC，MOVX什么时候使用
+SJMP和LJMP的范围，SJMP是256（2\*8）LJMP是64k（2\*16）
+LCALL
