@@ -7,10 +7,9 @@
         "id": "3a4ff153b813fa0b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "机械设计/第十章-齿轮传动.md",
-            "mode": "source"
+            "file": "微机原理/2013_Final Exam Paper A_solution.pdf"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机械设计/第十章-齿轮传动.md",
+                "file": "微机原理/2013_Final Exam Paper A_solution.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "3a4ff153b813fa0b",
   "lastOpenFiles": [
-    "机械设计/第十章-齿轮传动.md",
+    "微机原理/2013_Final Exam Paper A_solution.pdf",
+    "微机原理/微机原理（全英）.md",
+    "机械设计/第三章-零件强度.md",
     "机械设计/机械设计.md",
-    "机械设计/第十一章_蜗杆传动.md",
-    "机械设计/第十三章-滚动轴承.md",
-    "机械设计/第十二章-滑动轴承.md",
-    "微机原理/2 8051microcontroller.md",
-    "控制电机/带书签-《控制电机 第4版》_13336657.pdf",
-    "控制电机/测速发电机.md",
-    "微机原理/Lecture_08.pdf",
-    "微机原理/专业英语.md"
+    "机械设计/极限应力线图.png",
+    "机械设计/机械设计_14743852.pdf",
+    "微机原理/2013_Final Exam Paper A.pdf",
+    "第二章-总论.md",
+    "机械制造/机械制造.md",
+    "机械设计/第十四章：联轴器、离合器.md"
   ]
 }
