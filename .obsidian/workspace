@@ -7,9 +7,10 @@
         "id": "3a4ff153b813fa0b",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "微机原理/2013_Final Exam Paper A_solution.pdf"
+            "file": "机械设计/机械设计.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微机原理/2013_Final Exam Paper A_solution.pdf",
+                "file": "机械设计/机械设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "3a4ff153b813fa0b",
   "lastOpenFiles": [
-    "微机原理/2013_Final Exam Paper A_solution.pdf",
-    "微机原理/微机原理（全英）.md",
-    "机械设计/第三章-零件强度.md",
     "机械设计/机械设计.md",
-    "机械设计/极限应力线图.png",
-    "机械设计/机械设计_14743852.pdf",
-    "微机原理/2013_Final Exam Paper A.pdf",
-    "第二章-总论.md",
-    "机械制造/机械制造.md",
-    "机械设计/第十四章：联轴器、离合器.md"
+    "机械设计/老师板书/齿轮传动 (4).jpg",
+    "机械设计/老师板书/齿轮传动 (1).jpg",
+    "机械设计/老师板书/齿轮传动 (2).jpg",
+    "机械设计/老师板书/齿轮传动 (3).jpg",
+    "机械设计/第三章-零件强度.md",
+    "机械设计/第二章-总论.md",
+    "机械设计/第十三章-滚动轴承.md",
+    "机械设计/第十四章：联轴器、离合器.md",
+    "机械设计/第十二章-滑动轴承.md"
   ]
 }
